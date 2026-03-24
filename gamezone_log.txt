@@ -1,0 +1,121 @@
+════════════════════════════════════════════════════════════
+  GAMEZONE STORE — LOG DE SESIÓN
+  Inicio: 18/03/2026 11:55:05
+════════════════════════════════════════════════════════════
+[18/03/2026 11:55:05] [INFO ] Aplicación iniciada
+[18/03/2026 11:55:05] [INFO ] Cargando inventario...
+[18/03/2026 11:55:05] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 11:55:05] [INFO ] Carrito inicializado
+[18/03/2026 11:55:05] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 11:57:15] [INFO ] Aplicación cerrada por el usuario
+────────────────────────────────────────────────────────────
+  Cierre: 18/03/2026 11:57:15
+════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════
+  GAMEZONE STORE — LOG DE SESIÓN
+  Inicio: 18/03/2026 12:37:12
+════════════════════════════════════════════════════════════
+[18/03/2026 12:37:12] [INFO ] Aplicación iniciada
+[18/03/2026 12:37:12] [INFO ] Cargando inventario...
+[18/03/2026 12:37:12] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 12:37:12] [INFO ] Carrito inicializado
+[18/03/2026 12:37:12] [INFO ] Iniciando interfaz de usuario
+════════════════════════════════════════════════════════════
+  GAMEZONE STORE — LOG DE SESION
+  Inicio: 18/03/2026 16:59:59
+════════════════════════════════════════════════════════════
+[18/03/2026 16:59:59] [INFO ] Aplicacion iniciada
+[18/03/2026 16:59:59] [INFO ] Cargando inventario...
+[18/03/2026 16:59:59] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 16:59:59] [INFO ] Carrito inicializado
+[18/03/2026 16:59:59] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 17:00:32] [INFO ] Aplicacion cerrada por el usuario
+────────────────────────────────────────────────────────────
+  Cierre: 18/03/2026 17:00:32
+════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════
+  GAMEZONE STORE — LOG DE SESION
+  Inicio: 18/03/2026 17:15:29
+════════════════════════════════════════════════════════════
+[18/03/2026 17:15:29] [INFO ] Aplicacion iniciada
+[18/03/2026 17:15:29] [INFO ] Cargando inventario...
+[18/03/2026 17:15:29] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 17:15:29] [INFO ] Carrito inicializado
+[18/03/2026 17:15:29] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 17:16:21] [INFO ] Aplicacion cerrada por el usuario
+────────────────────────────────────────────────────────────
+  Cierre: 18/03/2026 17:16:21
+════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════
+  GAMEZONE STORE — LOG DE SESION
+  Inicio: 18/03/2026 17:16:54
+════════════════════════════════════════════════════════════
+[18/03/2026 17:16:54] [INFO ] Aplicacion iniciada
+[18/03/2026 17:16:54] [INFO ] Cargando inventario...
+[18/03/2026 17:16:54] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 17:16:54] [INFO ] Carrito inicializado
+[18/03/2026 17:16:54] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 17:17:55] [INFO ] Aplicacion cerrada por el usuario
+────────────────────────────────────────────────────────────
+  Cierre: 18/03/2026 17:17:55
+════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════
+  GAMEZONE STORE — LOG DE SESION
+  Inicio: 18/03/2026 17:18:35
+════════════════════════════════════════════════════════════
+[18/03/2026 17:18:35] [INFO ] Aplicacion iniciada
+[18/03/2026 17:18:35] [INFO ] Cargando inventario...
+[18/03/2026 17:18:35] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 17:18:35] [INFO ] Carrito inicializado
+[18/03/2026 17:18:35] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 17:20:22] [INFO ] Aplicacion cerrada por el usuario
+────────────────────────────────────────────────────────────
+  Cierre: 18/03/2026 17:20:22
+════════════════════════════════════════════════════════════
+
+============================================================
+  GAMEZONE STORE — LOG DE SESION
+  Inicio: 18/03/2026 17:31:23
+============================================================
+[18/03/2026 17:31:23] [INFO ] Aplicacion iniciada
+[18/03/2026 17:31:23] [INFO ] Cargando inventario...
+[18/03/2026 17:31:23] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 17:31:23] [INFO ] Carrito inicializado
+[18/03/2026 17:31:23] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 17:34:42] [INFO ] Aplicacion cerrada por el usuario
+____________________________________________________________
+  Cierre: 18/03/2026 17:34:42
+============================================================
+
+............................................................
+  GAMEZONE STORE — LOG DE SESION
+  Inicio: 18/03/2026 17:37:36
+............................................................
+[18/03/2026 17:37:36] [INFO ] Aplicacion iniciada
+[18/03/2026 17:37:36] [INFO ] Cargando inventario...
+[18/03/2026 17:37:36] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 17:37:36] [INFO ] Carrito inicializado
+[18/03/2026 17:37:36] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 17:40:49] [INFO ] Aplicacion cerrada por el usuario
+............................................................
+  Cierre: 18/03/2026 17:40:49
+............................................................
+
+............................................................
+  GAMEZONE STORE — LOG DE SESION
+  Inicio: 18/03/2026 17:42:22
+............................................................
+[18/03/2026 17:42:22] [INFO ] Aplicacion iniciada
+[18/03/2026 17:42:22] [INFO ] Cargando inventario...
+[18/03/2026 17:42:22] [INFO ] Inventario cargado: 10 productos
+[18/03/2026 17:42:22] [INFO ] Carrito inicializado
+[18/03/2026 17:42:22] [INFO ] Iniciando interfaz de usuario
+[18/03/2026 18:01:30] [INFO ] Aplicacion cerrada por el usuario
+............................................................
+  Cierre: 18/03/2026 18:01:30
+............................................................
+
